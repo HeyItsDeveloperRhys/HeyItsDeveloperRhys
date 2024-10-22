@@ -5,7 +5,7 @@
 
 - ChatGPTArms **https://github.com/TaylorHawkes/ChatGPTArms**
 
-- ⚡ Fun fact **I'm a weeb**
+- ⚡ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
